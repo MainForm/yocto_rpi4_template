@@ -1,7 +1,7 @@
 ### Visual studio code ###
 .vscode
 .codex
-.agent
+.agents
 
 ### Yocto ###
 build*/*
